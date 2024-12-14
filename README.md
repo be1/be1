@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @be1
 - 👀 I’m interested in music
 - 💞️ I’m looking for collaborators for [Redrose](http://brouits.free.fr/redrose/).
-- 📫 How to reach me: my email is brouits@free.fr
+- 📫 How to reach me: drop me an email.
 
 <!---
 be1/be1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
