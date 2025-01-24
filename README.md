@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @be1
 - 👀 I’m interested in music
-- 💞️ I’m looking for collaborators for [Redrose](http://brouits.free.fr/redrose/).
+- 💞️ I’m looking for collaborators for [QSpeakers](http://brouits.free.fr/qspeakers/).
 - 📫 How to reach me: drop me an email.
 
 <!---
